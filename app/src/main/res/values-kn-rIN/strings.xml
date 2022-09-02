@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday">ಹುಟ್ಟು ಹಬ್ಬದ ಶುಭಾಶಯಗಳು ಧನು</string>
+    <string name="from">ಕಿಟ್ಟ ನಿಂದ</string>
+    <string name="background">"ಹಿನ್ನೆಲೆ "</string>
+</resources>
